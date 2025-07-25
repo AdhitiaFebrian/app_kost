@@ -252,6 +252,10 @@ session_start();
                     Pengaturan
                 </a>
                 <a href="pages/login.php" class="menu-item">
+                    <i class="fas fa-sign-in-alt"></i>
+                    Login
+                </a>
+                <a href="pages/logout.php" class="menu-item">
                     <i class="fas fa-sign-out-alt"></i>
                     Logout
                 </a>
@@ -270,6 +274,14 @@ session_start();
                 </div>
                 
                 <div class="header-actions">
+                    <a href="pages/login.php" class="btn btn-primary" style="text-decoration: none; margin-right: 0.5rem;">
+                        <i class="fas fa-sign-in-alt"></i>
+                        Login
+                    </a>
+                    <a href="pages/logout.php" class="btn btn-danger" style="text-decoration: none; margin-right: 1rem;">
+                        <i class="fas fa-sign-out-alt"></i>
+                        Logout
+                    </a>
                     <div class="user-info">
                         <div class="user-avatar">
                             <i class="fas fa-user"></i>
