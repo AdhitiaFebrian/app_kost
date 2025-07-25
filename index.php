@@ -296,12 +296,26 @@ session_start();
 
             <!-- Content Area -->
             <div class="content-area">
+                <!-- Admin Welcome Message -->
+                <div style="text-align: center; margin-bottom: 2rem; padding: 2rem; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; color: white; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+                    <h2 style="font-size: 2.2rem; font-weight: 700; margin-bottom: 0.5rem; text-shadow: 0 2px 4px rgba(0,0,0,0.2);">
+                        Selamat Datang, Adhitia Agung Febrian
+                    </h2>
+                    <p style="font-size: 1.1rem; opacity: 0.9; margin: 0;">
+                        <i class="fas fa-user-tie" style="margin-right: 0.5rem;"></i>
+                        Administrator Sistem Manajemen Kost
+                    </p>
+                </div>
+                
                 <!-- Welcome Section -->
                 <div class="welcome-section">
                     <div class="welcome-icon">
                         <i class="fas fa-home"></i>
                     </div>
                     <h1>Dashboard Admin Kost</h1>
+                    <h2 style="color: #ffffff; font-size: 1.8rem; margin: 1rem 0; font-weight: 600; text-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+                        Selamat Datang, Adhitia Agung Febrian
+                    </h2>
                     <p>Selamat datang di sistem manajemen kost. Kelola data kost, penghuni, dan tagihan dengan mudah.</p>
                 </div>
 
