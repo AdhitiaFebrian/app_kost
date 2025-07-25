@@ -1,0 +1,9 @@
+Folder ini berisi gambar-gambar untuk aplikasi manajemen kost.
+
+Struktur yang disarankan:
+- logo.png - Logo aplikasi
+- icons/ - Folder untuk icon-icon
+- photos/ - Folder untuk foto-foto kost
+- avatars/ - Folder untuk foto profil penghuni
+
+Pastikan semua gambar dioptimasi untuk web dengan ukuran yang sesuai. 
